@@ -38,3 +38,26 @@ body{
     background-color:green;
     border-radius: 1rem;
 }
+
+#new-btn {
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: green;
+    border-radius: 1rem;
+}
+
+#msg {
+    color:blueviolet;
+    font-size: 5rem;
+}
+
+.msg-container {
+    height: 80vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.hide {
+    display: none;
+}
